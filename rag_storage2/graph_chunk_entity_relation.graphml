@@ -1,0 +1,2185 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d11" for="edge" attr.name="created_at" attr.type="long" />
+  <key id="d10" for="edge" attr.name="file_path" attr.type="string" />
+  <key id="d9" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d8" for="edge" attr.name="keywords" attr.type="string" />
+  <key id="d7" for="edge" attr.name="description" attr.type="string" />
+  <key id="d6" for="edge" attr.name="weight" attr.type="string" />
+  <key id="d5" for="node" attr.name="created_at" attr.type="long" />
+  <key id="d4" for="node" attr.name="file_path" attr.type="string" />
+  <key id="d3" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d2" for="node" attr.name="description" attr.type="string" />
+  <key id="d1" for="node" attr.name="entity_type" attr.type="string" />
+  <key id="d0" for="node" attr.name="entity_id" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Darren Edge">
+      <data key="d0">Darren Edge</data>
+      <data key="d1">person</data>
+      <data key="d2">Co-author of the paper 'From Local to Global: A GraphRAG Approach to Query-Focused Summarization', affiliated with Microsoft Research.</data>
+      <data key="d3">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d4">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d5">1753718183</data>
+    </node>
+    <node id="Ha Trinh">
+      <data key="d0">Ha Trinh</data>
+      <data key="d1">person</data>
+      <data key="d2">Co-author of the paper 'From Local to Global: A GraphRAG Approach to Query-Focused Summarization', affiliated with Microsoft Research.</data>
+      <data key="d3">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d4">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d5">1753718183</data>
+    </node>
+    <node id="Newman Cheng">
+      <data key="d0">Newman Cheng</data>
+      <data key="d1">person</data>
+      <data key="d2">Co-author of the paper 'From Local to Global: A GraphRAG Approach to Query-Focused Summarization', affiliated with Microsoft Strategic Missions and Technologies.</data>
+      <data key="d3">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d4">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d5">1753718183</data>
+    </node>
+    <node id="Joshua Bradley">
+      <data key="d0">Joshua Bradley</data>
+      <data key="d1">person</data>
+      <data key="d2">Co-author of the paper 'From Local to Global: A GraphRAG Approach to Query-Focused Summarization', affiliated with Microsoft Strategic Missions and Technologies.</data>
+      <data key="d3">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d4">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d5">1753718183</data>
+    </node>
+    <node id="Alex Chao">
+      <data key="d0">Alex Chao</data>
+      <data key="d1">person</data>
+      <data key="d2">Co-author of the paper 'From Local to Global: A GraphRAG Approach to Query-Focused Summarization', affiliated with Microsoft Office of the CTO.</data>
+      <data key="d3">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d4">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d5">1753718183</data>
+    </node>
+    <node id="Apurva Mody">
+      <data key="d0">Apurva Mody</data>
+      <data key="d1">person</data>
+      <data key="d2">Co-author of the paper 'From Local to Global: A GraphRAG Approach to Query-Focused Summarization', affiliated with Microsoft Office of the CTO.</data>
+      <data key="d3">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d4">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d5">1753718183</data>
+    </node>
+    <node id="Steven Truitt">
+      <data key="d0">Steven Truitt</data>
+      <data key="d1">person</data>
+      <data key="d2">Co-author of the paper 'From Local to Global: A GraphRAG Approach to Query-Focused Summarization', affiliated with Microsoft Strategic Missions and Technologies.</data>
+      <data key="d3">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d4">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d5">1753718183</data>
+    </node>
+    <node id="Dasha Metropolitansky">
+      <data key="d0">Dasha Metropolitansky</data>
+      <data key="d1">person</data>
+      <data key="d2">Co-author of the paper 'From Local to Global: A GraphRAG Approach to Query-Focused Summarization', co-creator of the Claimify method, and affiliated with Microsoft Research.</data>
+      <data key="d3">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d4">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d5">1753718183</data>
+    </node>
+    <node id="Robert Osazuwa Ness">
+      <data key="d0">Robert Osazuwa Ness</data>
+      <data key="d1">person</data>
+      <data key="d2">Co-author of the paper 'From Local to Global: A GraphRAG Approach to Query-Focused Summarization', affiliated with Microsoft Research.</data>
+      <data key="d3">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d4">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d5">1753718183</data>
+    </node>
+    <node id="Jonathan Larson">
+      <data key="d0">Jonathan Larson</data>
+      <data key="d1">person</data>
+      <data key="d2">Co-author of the paper 'From Local to Global: A GraphRAG Approach to Query-Focused Summarization', co-creator of the Claimify method, and affiliated with Microsoft Research.</data>
+      <data key="d3">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d4">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d5">1753718183</data>
+    </node>
+    <node id="Kevin Scott">
+      <data key="d0">Kevin Scott</data>
+      <data key="d1">person</data>
+      <data key="d2">Microsoft CTO and host of the podcast 'Behind the Tech', which provided one of the datasets used in the study.</data>
+      <data key="d3">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d4">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d5">1753718183</data>
+    </node>
+    <node id="Microsoft Research">
+      <data key="d0">Microsoft Research</data>
+      <data key="d1">organization</data>
+      <data key="d2">A research division of Microsoft, affiliated with several authors of the paper, and where the research was conducted.</data>
+      <data key="d3">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d4">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d5">1753718183</data>
+    </node>
+    <node id="Microsoft Strategic Missions and Technologies">
+      <data key="d0">Microsoft Strategic Missions and Technologies</data>
+      <data key="d1">organization</data>
+      <data key="d2">A division of Microsoft, affiliated with several authors of the paper.</data>
+      <data key="d3">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d4">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d5">1753718183</data>
+    </node>
+    <node id="Microsoft Office of the CTO">
+      <data key="d0">Microsoft Office of the CTO</data>
+      <data key="d1">organization</data>
+      <data key="d2">The office of the Chief Technology Officer at Microsoft, affiliated with several authors of the paper.</data>
+      <data key="d3">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d4">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d5">1753718183</data>
+    </node>
+    <node id="OpenAI">
+      <data key="d0">OpenAI</data>
+      <data key="d1">organization</data>
+      <data key="d2">A prominent AI research and deployment company, known for developing large language models like GPT and GPT-4, which are referenced and used in the study.</data>
+      <data key="d3">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d4">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d5">1753718183</data>
+    </node>
+    <node id="Google">
+      <data key="d0">Google</data>
+      <data key="d1">organization</data>
+      <data key="d2">A technology company whose models, such as Gemini, are referenced as examples of large language models excelling at sensemaking.</data>
+      <data key="d3">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d4">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d5">1753718183</data>
+    </node>
+    <node id="Large Language Models (LLMs)">
+      <data key="d0">Large Language Models (LLMs)</data>
+      <data key="d1">technology</data>
+      <data key="d2">Advanced AI models capable of processing and generating human-like text, which RAG systems aim to augment with external knowledge.</data>
+      <data key="d3">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d4">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d5">1753718213</data>
+    </node>
+    <node id="Retrieval-Augmented Generation (RAG)">
+      <data key="d0">Retrieval-Augmented Generation (RAG)</data>
+      <data key="d1">method</data>
+      <data key="d2">An established approach that combines large language models with external knowledge sources to answer queries based on data too large to fit into a model's context window.</data>
+      <data key="d3">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d4">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d5">1753718183</data>
+    </node>
+    <node id="GraphRAG">
+      <data key="d0">GraphRAG</data>
+      <data key="d1">method</data>
+      <data key="d2">A graph-enhanced RAG system used as a baseline that extracts entities and relationships, aggregates nodes into communities, and retrieves information by traversing these communities.</data>
+      <data key="d3">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d4">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d5">1753718213</data>
+    </node>
+    <node id="Vector RAG">
+      <data key="d0">Vector RAG</data>
+      <data key="d1">method</data>
+      <data key="d2">A conventional retrieval-augmented generation (RAG) approach that typically uses text embeddings to retrieve records semantically similar to a query.</data>
+      <data key="d3">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d4">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d5">1753718183</data>
+    </node>
+    <node id="GPT">
+      <data key="d0">GPT</data>
+      <data key="d1">technology</data>
+      <data key="d2">A family of large language models developed by OpenAI, mentioned for their capability in sensemaking.</data>
+      <data key="d3">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d4">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d5">1753718183</data>
+    </node>
+    <node id="GPT-4">
+      <data key="d0">GPT-4</data>
+      <data key="d1">technology</data>
+      <data key="d2">A specific, highly capable large language model from OpenAI, used as the underlying LLM in the GraphRAG experiments and evaluation.</data>
+      <data key="d3">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d4">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d5">1753718183</data>
+    </node>
+    <node id="Llama">
+      <data key="d0">Llama</data>
+      <data key="d1">technology</data>
+      <data key="d2">A family of open foundation and fine-tuned chat models, referenced for their capability in sensemaking.</data>
+      <data key="d3">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d4">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d5">1753718183</data>
+    </node>
+    <node id="Gemini">
+      <data key="d0">Gemini</data>
+      <data key="d1">technology</data>
+      <data key="d2">A family of highly capable multimodal models, referenced for their capability in sensemaking.</data>
+      <data key="d3">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d4">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d5">1753718183</data>
+    </node>
+    <node id="LangChain">
+      <data key="d0">LangChain</data>
+      <data key="d1">technology</data>
+      <data key="d2">An open-source framework for developing applications powered by language models, which offers extensions for the GraphRAG approach.</data>
+      <data key="d3">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d4">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d5">1753718183</data>
+    </node>
+    <node id="LlamaIndex">
+      <data key="d0">LlamaIndex</data>
+      <data key="d1">technology</data>
+      <data key="d2">A data framework for building LLM applications, which offers GraphRAG implementation examples.</data>
+      <data key="d3">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d4">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d5">1753718183</data>
+    </node>
+    <node id="NebulaGraph">
+      <data key="d0">NebulaGraph</data>
+      <data key="d1">technology</data>
+      <data key="d2">An open-source graph database that has launched industry-first GraphRAG extensions.</data>
+      <data key="d3">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d4">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d5">1753718183</data>
+    </node>
+    <node id="Neo4J">
+      <data key="d0">Neo4J</data>
+      <data key="d1">technology</data>
+      <data key="d2">A popular graph database platform that offers ecosystem tools for GraphRAG.</data>
+      <data key="d3">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d4">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d5">1753718183</data>
+    </node>
+    <node id="Claimify">
+      <data key="d0">Claimify</data>
+      <data key="d1">technology</data>
+      <data key="d2">An LLM-based method developed by Metropolitansky and Larson, used in the research to identify factual claims within generated answers for quantitative evaluation.</data>
+      <data key="d3">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d4">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d5">1753718183</data>
+    </node>
+    <node id="Scikit-learn">
+      <data key="d0">Scikit-learn</data>
+      <data key="d1">technology</data>
+      <data key="d2">A popular machine learning library in Python, whose implementation of agglomerative clustering was used in the research for diversity measurement.</data>
+      <data key="d3">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d4">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d5">1753718183</data>
+    </node>
+    <node id="OpenORD">
+      <data key="d0">OpenORD</data>
+      <data key="d1">technology</data>
+      <data key="d2">An open-source toolbox for large graph layout, used for node layout visualization in the study.</data>
+      <data key="d3">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d4">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d5">1753718183</data>
+    </node>
+    <node id="Force Atlas 2">
+      <data key="d0">Force Atlas 2</data>
+      <data key="d1">technology</data>
+      <data key="d2">A continuous graph layout algorithm, used for node layout visualization in the study.</data>
+      <data key="d3">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d4">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d5">1753718183</data>
+    </node>
+    <node id="Query-Focused Summarization (QFS)">
+      <data key="d0">Query-Focused Summarization (QFS)</data>
+      <data key="d1">concept</data>
+      <data key="d2">A task where a summary is generated specifically to answer a given query over an entire text corpus.</data>
+      <data key="d3">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d4">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d5">1753718183</data>
+    </node>
+    <node id="Sensemaking">
+      <data key="d0">Sensemaking</data>
+      <data key="d1">concept</data>
+      <data key="d2">The process of creating understanding by reasoning over connections among people, places, and events to anticipate trajectories and act effectively, a key focus for GraphRAG.</data>
+      <data key="d3">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d4">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d5">1753718183</data>
+    </node>
+    <node id="Context Window">
+      <data key="d0">Context Window</data>
+      <data key="d1">concept</data>
+      <data key="d2">The maximum number of tokens (units of text) that a large language model can process at once, a limitation RAG addresses.</data>
+      <data key="d3">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d4">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d5">1753718183</data>
+    </node>
+    <node id="Entity Knowledge Graph">
+      <data key="d0">Entity Knowledge Graph</data>
+      <data key="d1">concept</data>
+      <data key="d2">A structured representation of information where nodes correspond to key entities in a corpus and edges represent relationships between them, built by GraphRAG.</data>
+      <data key="d3">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d4">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d5">1753718183</data>
+    </node>
+    <node id="Community Summaries">
+      <data key="d0">Community Summaries</data>
+      <data key="d1">concept</data>
+      <data key="d2">Pre-generated summaries for groups of closely related entities within a knowledge graph, used by GraphRAG to provide global descriptions and insights.</data>
+      <data key="d3">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d4">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d5">1753718183</data>
+    </node>
+    <node id="Text Embeddings">
+      <data key="d0">Text Embeddings</data>
+      <data key="d1">concept</data>
+      <data key="d2">Numerical representations of text that capture semantic similarity, commonly used in conventional RAG approaches for retrieval.</data>
+      <data key="d3">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d4">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d5">1753718183</data>
+    </node>
+    <node id="Adaptive Benchmarking">
+      <data key="d0">Adaptive Benchmarking</data>
+      <data key="d1">method</data>
+      <data key="d2">The process of dynamically generating evaluation benchmarks tailored to specific domains or use cases, used to create global sensemaking queries.</data>
+      <data key="d3">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d4">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d5">1753718183</data>
+    </node>
+    <node id="LLM-as-a-judge">
+      <data key="d0">LLM-as-a-judge</data>
+      <data key="d1">method</data>
+      <data key="d2">A technique where a large language model is used to evaluate the answers of other RAG systems based on predefined criteria, employed for evaluation in the study.</data>
+      <data key="d3">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d4">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d5">1753718183</data>
+    </node>
+    <node id="Comprehensiveness (Criterion)">
+      <data key="d0">Comprehensiveness (Criterion)</data>
+      <data key="d1">concept</data>
+      <data key="d2">An evaluation criterion measuring how much detail an answer provides to cover all aspects of a given question, assessed via LLM-as-a-judge and claim-based metrics.</data>
+      <data key="d3">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d4">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d5">1753718183</data>
+    </node>
+    <node id="Diversity (Criterion)">
+      <data key="d0">Diversity (Criterion)</data>
+      <data key="d1">concept</data>
+      <data key="d2">An evaluation criterion measuring how varied and rich an answer is in providing different perspectives and insights on a question, assessed via LLM-as-a-judge and claim-based metrics.</data>
+      <data key="d3">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d4">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d5">1753718183</data>
+    </node>
+    <node id="Empowerment (Criterion)">
+      <data key="d0">Empowerment (Criterion)</data>
+      <data key="d1">concept</data>
+      <data key="d2">An evaluation criterion assessing how well an answer helps the reader understand and make informed judgments about the topic without being misled.</data>
+      <data key="d3">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d4">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d5">1753718183</data>
+    </node>
+    <node id="Directness (Criterion)">
+      <data key="d0">Directness (Criterion)</data>
+      <data key="d1">concept</data>
+      <data key="d2">A control evaluation criterion assessing how specifically and clearly an answer addresses the question, used as a reference point for other criteria.</data>
+      <data key="d3">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d4">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d5">1753718183</data>
+    </node>
+    <node id="Factual Claims">
+      <data key="d0">Factual Claims</data>
+      <data key="d1">concept</data>
+      <data key="d2">Statements that explicitly present verifiable facts, used as a basis for quantitative claim-based measures of comprehensiveness and diversity.</data>
+      <data key="d3">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d4">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d5">1753718183</data>
+    </node>
+    <node id="Graph-based Approach">
+      <data key="d0">Graph-based Approach</data>
+      <data key="d1">method</data>
+      <data key="d2">A methodology utilizing graph structures for question answering over text corpora, distinguishing GraphRAG from conventional RAG.</data>
+      <data key="d3">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d4">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d5">1753718183</data>
+    </node>
+    <node id="Map-reduce Processing">
+      <data key="d0">Map-reduce Processing</data>
+      <data key="d1">method</data>
+      <data key="d2">A programming model used by GraphRAG for multi-stage summarization, where partial answers are generated (map) and then combined into a final global answer (reduce).</data>
+      <data key="d3">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d4">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d5">1753718183</data>
+    </node>
+    <node id="Community Detection">
+      <data key="d0">Community Detection</data>
+      <data key="d1">method</data>
+      <data key="d2">Algorithms used to partition graphs into communities of strongly connected nodes, such as Leiden, applied in GraphRAG to organize entities.</data>
+      <data key="d3">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d4">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d5">1753718183</data>
+    </node>
+    <node id="Leiden Community Detection">
+      <data key="d0">Leiden Community Detection</data>
+      <data key="d1">method</data>
+      <data key="d2">A specific community detection algorithm used hierarchically in the GraphRAG pipeline to partition the graph into nested communities.</data>
+      <data key="d3">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d4">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d5">1753718183</data>
+    </node>
+    <node id="Agglomerative Clustering">
+      <data key="d0">Agglomerative Clustering</data>
+      <data key="d1">method</data>
+      <data key="d2">A hierarchical clustering algorithm used in Experiment 2 to cluster extracted claims for measuring diversity.</data>
+      <data key="d3">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d4">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d5">1753718183</data>
+    </node>
+    <node id="Wilcoxon Signed-Rank Tests">
+      <data key="d0">Wilcoxon Signed-Rank Tests</data>
+      <data key="d1">method</data>
+      <data key="d2">A non-parametric statistical test employed to assess the performance differences between pairs of conditions in the evaluation.</data>
+      <data key="d3">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d4">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d5">1753718183</data>
+    </node>
+    <node id="Holm-Bonferroni Correction">
+      <data key="d0">Holm-Bonferroni Correction</data>
+      <data key="d1">method</data>
+      <data key="d2">A statistical method applied to adjust p-values for multiple pairwise comparisons, ensuring the control of family-wise error rate.</data>
+      <data key="d3">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d4">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d5">1753718183</data>
+    </node>
+    <node id="Persona Generation">
+      <data key="d0">Persona Generation</data>
+      <data key="d1">method</data>
+      <data key="d2">An LLM-based method used in adaptive benchmarking to infer hypothetical users and their use cases, guiding the generation of corpus-specific sensemaking queries.</data>
+      <data key="d3">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d4">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d5">1753718183</data>
+    </node>
+    <node id="In-context Learning">
+      <data key="d0">In-context Learning</data>
+      <data key="d1">method</data>
+      <data key="d2">A technique where language models learn from examples provided directly in the prompt, used to tailor entity extraction prompts to specific domains.</data>
+      <data key="d3">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d4">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d5">1753718183</data>
+    </node>
+    <node id="Entity Matching">
+      <data key="d0">Entity Matching</data>
+      <data key="d1">method</data>
+      <data key="d2">The task of reconciling different extracted names for the same entity, mentioned as a process in knowledge graph construction.</data>
+      <data key="d3">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d4">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d5">1753718183</data>
+    </node>
+    <node id="Self-reflection (Prompt Engineering)">
+      <data key="d0">Self-reflection (Prompt Engineering)</data>
+      <data key="d1">method</data>
+      <data key="d2">A prompt engineering technique where an LLM evaluates its own output and generates an improved response, used to enhance knowledge graph extraction quality.</data>
+      <data key="d3">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d4">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d5">1753718183</data>
+    </node>
+    <node id="Hierarchical Indexing">
+      <data key="d0">Hierarchical Indexing</data>
+      <data key="d1">method</data>
+      <data key="d2">An approach similar to GraphRAG where data is organized into a hierarchy to create summaries, leveraging community structures for this purpose.</data>
+      <data key="d3">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d4">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d5">1753718183</data>
+    </node>
+    <node id="ROUGE-L">
+      <data key="d0">ROUGE-L</data>
+      <data key="d1">method</data>
+      <data key="d2">A metric used to evaluate text summarization and machine translation, applied as a distance metric in clustering factual claims.</data>
+      <data key="d3">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d4">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d5">1753718183</data>
+    </node>
+    <node id="HotPotQA">
+      <data key="d0">HotPotQA</data>
+      <data key="d1">dataset</data>
+      <data key="d2">A benchmark dataset for diverse, explainable multi-hop question answering, used in preliminary tests for entity extraction.</data>
+      <data key="d3">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d4">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d5">1753718183</data>
+    </node>
+    <node id="MultiHop-RAG">
+      <data key="d0">MultiHop-RAG</data>
+      <data key="d1">dataset</data>
+      <data key="d2">A benchmark dataset for evaluating retrieval-augmented generation for multi-hop queries, mentioned as a common benchmark.</data>
+      <data key="d3">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d4">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d5">1753718183</data>
+    </node>
+    <node id="MT-Bench">
+      <data key="d0">MT-Bench</data>
+      <data key="d1">dataset</data>
+      <data key="d2">A benchmark dataset used for evaluating the performance of LLM-as-a-judge systems.</data>
+      <data key="d3">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d4">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d5">1753718183</data>
+    </node>
+    <node id="Podcast Transcripts (Behind the Tech with Kevin Scott)">
+      <data key="d0">Podcast Transcripts (Behind the Tech with Kevin Scott)</data>
+      <data key="d1">dataset</data>
+      <data key="d2">A real-world dataset consisting of public transcripts from a podcast, used as one of the two main evaluation corpora in Experiment 1.</data>
+      <data key="d3">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d4">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d5">1753718183</data>
+    </node>
+    <node id="News Articles (Benchmark Dataset)">
+      <data key="d0">News Articles (Benchmark Dataset)</data>
+      <data key="d1">dataset</data>
+      <data key="d2">A real-world dataset comprised of news articles published from September 2013 to December 2023, used as one of the two main evaluation corpora in Experiment 1.</data>
+      <data key="d3">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d4">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d5">1753718183</data>
+    </node>
+    <node id="Microsoft">
+      <data key="d0">Microsoft</data>
+      <data key="d3">chunk-b258f8fda9a6d5e16946b3a88110914b</data>
+      <data key="d2">UNKNOWN</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d5">1753718140</data>
+    </node>
+    <node id="LightRAG">
+      <data key="d0">LightRAG</data>
+      <data key="d1">technology</data>
+      <data key="d2">The proposed Retrieval-Augmented Generation (RAG) system that integrates graph structures into text indexing and retrieval, designed for simple, fast, comprehensive, and efficient information retrieval and generation.</data>
+      <data key="d3">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d4">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d5">1753718213</data>
+    </node>
+    <node id="Retrieval-Augmented Generation (RAG) systems">
+      <data key="d0">Retrieval-Augmented Generation (RAG) systems</data>
+      <data key="d1">concept</data>
+      <data key="d2">A framework that enhances large language models (LLMs) by integrating external knowledge sources, enabling more accurate and contextually relevant responses.</data>
+      <data key="d3">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d4">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d5">1753718213</data>
+    </node>
+    <node id="Zirui Guo">
+      <data key="d0">Zirui Guo</data>
+      <data key="d1">person</data>
+      <data key="d2">An author of the LightRAG research paper, affiliated with Beijing University of Posts and Telecommunications and the University of Hong Kong.</data>
+      <data key="d3">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d4">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d5">1753718213</data>
+    </node>
+    <node id="Lianghao Xia">
+      <data key="d0">Lianghao Xia</data>
+      <data key="d1">person</data>
+      <data key="d2">An author of the LightRAG research paper, affiliated with the University of Hong Kong.</data>
+      <data key="d3">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d4">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d5">1753718213</data>
+    </node>
+    <node id="Yanhua Yu">
+      <data key="d0">Yanhua Yu</data>
+      <data key="d1">person</data>
+      <data key="d2">A corresponding author of the LightRAG research paper, affiliated with Beijing University of Posts and Telecommunications.</data>
+      <data key="d3">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d4">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d5">1753718213</data>
+    </node>
+    <node id="Tu Ao">
+      <data key="d0">Tu Ao</data>
+      <data key="d1">person</data>
+      <data key="d2">An author of the LightRAG research paper, affiliated with Beijing University of Posts and Telecommunications.</data>
+      <data key="d3">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d4">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d5">1753718213</data>
+    </node>
+    <node id="Chao Huang">
+      <data key="d0">Chao Huang</data>
+      <data key="d1">person</data>
+      <data key="d2">A corresponding author of the LightRAG research paper, affiliated with the University of Hong Kong.</data>
+      <data key="d3">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d4">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d5">1753718213</data>
+    </node>
+    <node id="Beijing University of Posts and Telecommunications">
+      <data key="d0">Beijing University of Posts and Telecommunications</data>
+      <data key="d1">organization</data>
+      <data key="d2">An academic institution and affiliation of some authors of the LightRAG research paper.</data>
+      <data key="d3">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d4">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d5">1753718213</data>
+    </node>
+    <node id="University of Hong Kong">
+      <data key="d0">University of Hong Kong</data>
+      <data key="d1">organization</data>
+      <data key="d2">An academic institution and affiliation of some authors of the LightRAG research paper, also hosting the open-source LightRAG repository.</data>
+      <data key="d3">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d4">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d5">1753718213</data>
+    </node>
+    <node id="Graph Structures">
+      <data key="d0">Graph Structures</data>
+      <data key="d1">concept</data>
+      <data key="d2">A data representation method incorporated into LightRAG's text indexing and retrieval processes to represent interdependencies among entities and enhance contextual awareness.</data>
+      <data key="d3">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d4">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d5">1753718213</data>
+    </node>
+    <node id="Dual-level Retrieval Paradigm">
+      <data key="d0">Dual-level Retrieval Paradigm</data>
+      <data key="d1">method</data>
+      <data key="d2">A key retrieval strategy in LightRAG that accommodates diverse query types by performing both low-level retrieval (specific entities) and high-level retrieval (broader topics).</data>
+      <data key="d3">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d4">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d5">1753718213</data>
+    </node>
+    <node id="Incremental Update Algorithm">
+      <data key="d0">Incremental Update Algorithm</data>
+      <data key="d1">method</data>
+      <data key="d2">A method in LightRAG that allows for timely and efficient integration of new data into the knowledge base without full reprocessing, ensuring the system remains current.</data>
+      <data key="d3">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d4">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d5">1753718213</data>
+    </node>
+    <node id="Chunking">
+      <data key="d0">Chunking</data>
+      <data key="d1">method</data>
+      <data key="d2">A technique used in RAG systems to break down large text corpora into smaller, more manageable segments to improve information retrieval accuracy.</data>
+      <data key="d3">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d4">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d5">1753718213</data>
+    </node>
+    <node id="Knowledge Graph">
+      <data key="d0">Knowledge Graph</data>
+      <data key="d1">data structure</data>
+      <data key="d2">A comprehensive graph representation built by LightRAG to capture entities and their relationships from text, facilitating enhanced information retrieval and contextual understanding.</data>
+      <data key="d3">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d4">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d5">1753718213</data>
+    </node>
+    <node id="Retrieval Component">
+      <data key="d0">Retrieval Component</data>
+      <data key="d1">method</data>
+      <data key="d2">A functional part of a RAG system responsible for fetching relevant documents or information from an external knowledge database based on an input query.</data>
+      <data key="d3">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d4">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d5">1753718213</data>
+    </node>
+    <node id="Generation Component">
+      <data key="d0">Generation Component</data>
+      <data key="d1">method</data>
+      <data key="d2">A functional part of a RAG system that uses the retrieved information and a language model to produce coherent and contextually relevant responses.</data>
+      <data key="d3">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d4">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d5">1753718213</data>
+    </node>
+    <node id="Data Indexer φ(·)">
+      <data key="d0">Data Indexer φ(·)</data>
+      <data key="d1">method</data>
+      <data key="d2">A function within the RAG framework that builds a specific data structure (ˆD) from the external database (D) for efficient information retrieval.</data>
+      <data key="d3">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d4">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d5">1753718213</data>
+    </node>
+    <node id="Data Retriever ψ(·)">
+      <data key="d0">Data Retriever ψ(·)</data>
+      <data key="d1">method</data>
+      <data key="d2">A function within the RAG framework that obtains relevant documents by comparing the input query against the indexed data.</data>
+      <data key="d3">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d4">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d5">1753718213</data>
+    </node>
+    <node id="GPT-4o-mini">
+      <data key="d0">GPT-4o-mini</data>
+      <data key="d1">technology</data>
+      <data key="d2">A specific Large Language Model (LLM) utilized in LightRAG for various operations, including entity/relationship extraction, profiling, query generation, and evaluation.</data>
+      <data key="d3">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d4">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d5">1753718213</data>
+    </node>
+    <node id="Graph-Enhanced Entity and Relationship Extraction">
+      <data key="d0">Graph-Enhanced Entity and Relationship Extraction</data>
+      <data key="d1">method</data>
+      <data key="d2">A method used in LightRAG's graph-based text indexing that leverages LLMs to identify and extract entities and their relationships from segmented text documents.</data>
+      <data key="d3">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d4">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d5">1753718213</data>
+    </node>
+    <node id="LLM Profiling for Key-Value Pair Generation P(·)">
+      <data key="d0">LLM Profiling for Key-Value Pair Generation P(·)</data>
+      <data key="d1">method</data>
+      <data key="d2">A function in LightRAG that employs an LLM to generate descriptive text key-value pairs for entity nodes and relation edges, optimizing for rapid and precise retrieval.</data>
+      <data key="d3">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d4">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d5">1753718213</data>
+    </node>
+    <node id="Deduplication to Optimize Graph Operations D(·)">
+      <data key="d0">Deduplication to Optimize Graph Operations D(·)</data>
+      <data key="d1">method</data>
+      <data key="d2">A function in LightRAG that identifies and merges identical entities and relations to reduce the size and overhead of the knowledge graph, leading to more efficient processing.</data>
+      <data key="d3">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d4">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d5">1753718213</data>
+    </node>
+    <node id="Vector Database">
+      <data key="d0">Vector Database</data>
+      <data key="d1">technology</data>
+      <data key="d2">A specialized database used in LightRAG for efficient storage and similarity-based retrieval of vectorized representations of query keywords, entities, and relations.</data>
+      <data key="d3">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d4">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d5">1753718213</data>
+    </node>
+    <node id="UltraDomain benchmark">
+      <data key="d0">UltraDomain benchmark</data>
+      <data key="d1">dataset</data>
+      <data key="d2">A comprehensive benchmark dataset sourced from college textbooks across various domains, used to evaluate the effectiveness of LightRAG and baseline models.</data>
+      <data key="d3">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d4">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d5">1753718213</data>
+    </node>
+    <node id="Agriculture dataset">
+      <data key="d0">Agriculture dataset</data>
+      <data key="d1">dataset</data>
+      <data key="d2">A domain-specific dataset from the UltraDomain benchmark focusing on agricultural practices, used for experimental evaluation of RAG systems.</data>
+      <data key="d3">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d4">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d5">1753718213</data>
+    </node>
+    <node id="CS dataset">
+      <data key="d0">CS dataset</data>
+      <data key="d1">dataset</data>
+      <data key="d2">A domain-specific dataset from the UltraDomain benchmark covering computer science topics like data science, machine learning, and big data processing, used for evaluation.</data>
+      <data key="d3">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d4">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d5">1753718213</data>
+    </node>
+    <node id="Legal dataset">
+      <data key="d0">Legal dataset</data>
+      <data key="d1">dataset</data>
+      <data key="d2">The largest domain-specific dataset from the UltraDomain benchmark, focusing on corporate legal practices, used for experimental evaluation.</data>
+      <data key="d3">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d4">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d5">1753718213</data>
+    </node>
+    <node id="Mix dataset">
+      <data key="d0">Mix dataset</data>
+      <data key="d1">dataset</data>
+      <data key="d2">A domain-specific dataset from the UltraDomain benchmark comprising literary, biographical, and philosophical texts, used for experimental evaluation.</data>
+      <data key="d3">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d4">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d5">1753718213</data>
+    </node>
+    <node id="Naive RAG">
+      <data key="d0">Naive RAG</data>
+      <data key="d1">method</data>
+      <data key="d2">A standard baseline RAG method that segments raw texts into chunks, stores them as vector embeddings, and retrieves based on similarity matching.</data>
+      <data key="d3">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d4">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d5">1753718213</data>
+    </node>
+    <node id="RQ-RAG">
+      <data key="d0">RQ-RAG</data>
+      <data key="d1">method</data>
+      <data key="d2">A baseline RAG approach that uses an LLM to decompose input queries into multiple sub-queries to enhance search accuracy through explicit techniques like rewriting and disambiguation.</data>
+      <data key="d3">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d4">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d5">1753718213</data>
+    </node>
+    <node id="HyDE">
+      <data key="d0">HyDE</data>
+      <data key="d1">method</data>
+      <data key="d2">A baseline RAG method that leverages an LLM to generate a hypothetical document from the input query, which then guides the retrieval of relevant text chunks.</data>
+      <data key="d3">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d4">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d5">1753718213</data>
+    </node>
+    <node id="LLM-based multi-dimensional comparison method">
+      <data key="d0">LLM-based multi-dimensional comparison method</data>
+      <data key="d1">method</data>
+      <data key="d2">The evaluation methodology used in the paper where a GPT-4o-mini LLM ranks the performance of RAG systems based on criteria like Comprehensiveness, Diversity, and Empowerment.</data>
+      <data key="d3">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d4">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d5">1753718213</data>
+    </node>
+    <node id="Comprehensiveness">
+      <data key="d0">Comprehensiveness</data>
+      <data key="d1">concept</data>
+      <data key="d2">An evaluation criterion assessing how thoroughly an answer addresses all aspects and details of a given question.</data>
+      <data key="d3">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d4">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d5">1753718213</data>
+    </node>
+    <node id="Diversity">
+      <data key="d0">Diversity</data>
+      <data key="d1">concept</data>
+      <data key="d2">An evaluation criterion assessing the variety and richness of an answer in offering different perspectives and insights related to a question.</data>
+      <data key="d3">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d4">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d5">1753718213</data>
+    </node>
+    <node id="Empowerment">
+      <data key="d0">Empowerment</data>
+      <data key="d1">concept</data>
+      <data key="d2">An evaluation criterion assessing how effectively an answer enables the reader to understand the topic and make informed judgments.</data>
+      <data key="d3">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d4">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d5">1753718213</data>
+    </node>
+    <node id="Query Keyword Extraction">
+      <data key="d0">Query Keyword Extraction</data>
+      <data key="d1">method</data>
+      <data key="d2">A step within LightRAG's dual-level retrieval process where both local (specific) and global (broad) keywords are extracted from a given user query.</data>
+      <data key="d3">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d4">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d5">1753718213</data>
+    </node>
+    <node id="Keyword Matching">
+      <data key="d0">Keyword Matching</data>
+      <data key="d1">method</data>
+      <data key="d2">A step within LightRAG's retrieval algorithm that uses a vector database to match extracted local and global query keywords with candidate entities and relations.</data>
+      <data key="d3">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d4">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d5">1753718213</data>
+    </node>
+    <node id="Incorporating High-Order Relatedness">
+      <data key="d0">Incorporating High-Order Relatedness</data>
+      <data key="d1">method</data>
+      <data key="d2">A step in LightRAG's retrieval process that gathers neighboring nodes within the local subgraphs of retrieved graph elements to enhance the query with higher-order relationships.</data>
+      <data key="d3">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d4">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d5">1753718213</data>
+    </node>
+    <node id="Graph Neural Networks (GNNs)">
+      <data key="d0">Graph Neural Networks (GNNs)</data>
+      <data key="d1">technology</data>
+      <data key="d2">A type of neural network specifically designed to operate on graph-structured data, mentioned in the context of LLM-graph integration.</data>
+      <data key="d3">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d4">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d5">1753718213</data>
+    </node>
+    <node id="GNNs as Prefix">
+      <data key="d0">GNNs as Prefix</data>
+      <data key="d1">concept</data>
+      <data key="d2">A category of methods in LLM-graph integration where GNNs are used as an initial processing layer to generate structure-aware tokens for LLMs.</data>
+      <data key="d3">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d4">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d5">1753718213</data>
+    </node>
+    <node id="GraphGPT">
+      <data key="d0">GraphGPT</data>
+      <data key="d1">technology</data>
+      <data key="d2">A specific system mentioned as an example within the 'GNNs as Prefix' category of LLM-graph integration, focusing on graph instruction tuning.</data>
+      <data key="d3">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d4">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d5">1753718213</data>
+    </node>
+    <node id="LLaGA">
+      <data key="d0">LLaGA</data>
+      <data key="d1">technology</data>
+      <data key="d2">A specific system mentioned as an example within the 'GNNs as Prefix' category of LLM-graph integration, described as a 'Large Language and Graph Assistant'.</data>
+      <data key="d3">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d4">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d5">1753718213</data>
+    </node>
+    <node id="LLMs as Prefix">
+      <data key="d0">LLMs as Prefix</data>
+      <data key="d1">concept</data>
+      <data key="d2">A category of methods in LLM-graph integration where LLMs process graph data to refine the training process for GNNs, e.g., by generating node embeddings or labels.</data>
+      <data key="d3">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d4">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d5">1753718213</data>
+    </node>
+    <node id="GALM">
+      <data key="d0">GALM</data>
+      <data key="d1">technology</data>
+      <data key="d2">A specific system mentioned as an example within the 'LLMs as Prefix' category of LLM-graph integration, focusing on graph-aware language model pre-training.</data>
+      <data key="d3">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d4">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d5">1753718213</data>
+    </node>
+    <node id="OFA">
+      <data key="d0">OFA</data>
+      <data key="d1">technology</data>
+      <data key="d2">A specific system mentioned as an example within the 'LLMs as Prefix' category of LLM-graph integration, aiming for a single graph model for all classification tasks.</data>
+      <data key="d3">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d4">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d5">1753718213</data>
+    </node>
+    <node id="LLMs-Graphs Integration">
+      <data key="d0">LLMs-Graphs Integration</data>
+      <data key="d1">concept</data>
+      <data key="d2">A broad category of research focusing on achieving seamless interaction between Large Language Models and graph data, encompassing techniques like fusion training and GNN alignment.</data>
+      <data key="d3">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d4">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d5">1753718213</data>
+    </node>
+    <node id="Flat data representations">
+      <data key="d0">Flat data representations</data>
+      <data key="d3">chunk-9eda317c59062d1fcd092501d05b778c</data>
+      <data key="d2">UNKNOWN</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d5">1753718187</data>
+    </node>
+    <node id="Low-Level Retrieval">
+      <data key="d0">Low-Level Retrieval</data>
+      <data key="d3">chunk-9eda317c59062d1fcd092501d05b778c</data>
+      <data key="d2">UNKNOWN</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d5">1753718187</data>
+    </node>
+    <node id="High-Level Retrieval">
+      <data key="d0">High-Level Retrieval</data>
+      <data key="d3">chunk-9eda317c59062d1fcd092501d05b778c</data>
+      <data key="d2">UNKNOWN</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d5">1753718187</data>
+    </node>
+    <node id="Entities">
+      <data key="d0">Entities</data>
+      <data key="d3">chunk-9eda317c59062d1fcd092501d05b778c</data>
+      <data key="d2">UNKNOWN</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d5">1753718187</data>
+    </node>
+    <node id="Relationships">
+      <data key="d0">Relationships</data>
+      <data key="d3">chunk-9eda317c59062d1fcd092501d05b778c</data>
+      <data key="d2">UNKNOWN</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d5">1753718187</data>
+    </node>
+    <edge source="Darren Edge" target="Microsoft Research">
+      <data key="d6">0.9</data>
+      <data key="d7">Darren Edge is affiliated with Microsoft Research.</data>
+      <data key="d8">affiliation, author</data>
+      <data key="d9">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d10">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d11">1753718183</data>
+    </edge>
+    <edge source="Ha Trinh" target="Microsoft Research">
+      <data key="d6">0.9</data>
+      <data key="d7">Ha Trinh is affiliated with Microsoft Research.</data>
+      <data key="d8">affiliation, author</data>
+      <data key="d9">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d10">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d11">1753718183</data>
+    </edge>
+    <edge source="Newman Cheng" target="Microsoft Strategic Missions and Technologies">
+      <data key="d6">0.9</data>
+      <data key="d7">Newman Cheng is affiliated with Microsoft Strategic Missions and Technologies.</data>
+      <data key="d8">affiliation, author</data>
+      <data key="d9">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d10">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d11">1753718183</data>
+    </edge>
+    <edge source="Joshua Bradley" target="Microsoft Strategic Missions and Technologies">
+      <data key="d6">0.9</data>
+      <data key="d7">Joshua Bradley is affiliated with Microsoft Strategic Missions and Technologies.</data>
+      <data key="d8">affiliation, author</data>
+      <data key="d9">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d10">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d11">1753718183</data>
+    </edge>
+    <edge source="Alex Chao" target="Microsoft Office of the CTO">
+      <data key="d6">0.9</data>
+      <data key="d7">Alex Chao is affiliated with Microsoft Office of the CTO.</data>
+      <data key="d8">affiliation, author</data>
+      <data key="d9">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d10">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d11">1753718183</data>
+    </edge>
+    <edge source="Apurva Mody" target="Microsoft Office of the CTO">
+      <data key="d6">0.9</data>
+      <data key="d7">Apurva Mody is affiliated with Microsoft Office of the CTO.</data>
+      <data key="d8">affiliation, author</data>
+      <data key="d9">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d10">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d11">1753718183</data>
+    </edge>
+    <edge source="Steven Truitt" target="Microsoft Strategic Missions and Technologies">
+      <data key="d6">0.9</data>
+      <data key="d7">Steven Truitt is affiliated with Microsoft Strategic Missions and Technologies.</data>
+      <data key="d8">affiliation, author</data>
+      <data key="d9">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d10">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d11">1753718183</data>
+    </edge>
+    <edge source="Dasha Metropolitansky" target="Microsoft Research">
+      <data key="d6">0.9</data>
+      <data key="d7">Dasha Metropolitansky is affiliated with Microsoft Research.</data>
+      <data key="d8">affiliation, author</data>
+      <data key="d9">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d10">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d11">1753718183</data>
+    </edge>
+    <edge source="Dasha Metropolitansky" target="Claimify">
+      <data key="d6">0.9</data>
+      <data key="d7">Dasha Metropolitansky is an author of Claimify.</data>
+      <data key="d8">developer, author_of_work</data>
+      <data key="d9">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d10">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d11">1753718183</data>
+    </edge>
+    <edge source="Robert Osazuwa Ness" target="Microsoft Research">
+      <data key="d6">0.9</data>
+      <data key="d7">Robert Osazuwa Ness is affiliated with Microsoft Research.</data>
+      <data key="d8">affiliation, author</data>
+      <data key="d9">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d10">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d11">1753718183</data>
+    </edge>
+    <edge source="Jonathan Larson" target="Microsoft Research">
+      <data key="d6">0.9</data>
+      <data key="d7">Jonathan Larson is affiliated with Microsoft Research.</data>
+      <data key="d8">affiliation, author</data>
+      <data key="d9">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d10">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d11">1753718183</data>
+    </edge>
+    <edge source="Jonathan Larson" target="Claimify">
+      <data key="d6">0.9</data>
+      <data key="d7">Jonathan Larson is an author of Claimify.</data>
+      <data key="d8">developer, author_of_work</data>
+      <data key="d9">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d10">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d11">1753718183</data>
+    </edge>
+    <edge source="Kevin Scott" target="Podcast Transcripts (Behind the Tech with Kevin Scott)">
+      <data key="d6">0.9</data>
+      <data key="d7">Podcast Transcripts dataset is from 'Behind the Tech with Kevin Scott' podcast, hosted by Kevin Scott.</data>
+      <data key="d8">source_from, features</data>
+      <data key="d9">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d10">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d11">1753718183</data>
+    </edge>
+    <edge source="Kevin Scott" target="Microsoft">
+      <data key="d6">0.8</data>
+      <data key="d7">Kevin Scott is Microsoft's CTO.</data>
+      <data key="d8">affiliation, role</data>
+      <data key="d9">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d10">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d11">1753718183</data>
+    </edge>
+    <edge source="OpenAI" target="GPT-4">
+      <data key="d6">0.9</data>
+      <data key="d7">GPT-4 is a language model developed by OpenAI.</data>
+      <data key="d8">developed_by, product_of</data>
+      <data key="d9">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d10">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d11">1753718183</data>
+    </edge>
+    <edge source="Large Language Models (LLMs)" target="Retrieval-Augmented Generation (RAG)">
+      <data key="d6">0.8</data>
+      <data key="d7">Retrieval-Augmented Generation (RAG) is an approach that enables Large Language Models (LLMs) to answer questions over large datasets.</data>
+      <data key="d8">enables, uses, approach_for</data>
+      <data key="d9">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d10">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d11">1753718183</data>
+    </edge>
+    <edge source="Large Language Models (LLMs)" target="Sensemaking">
+      <data key="d6">0.8</data>
+      <data key="d7">Large Language Models (LLMs) excel at sensemaking in complex domains.</data>
+      <data key="d8">capability, excels_at</data>
+      <data key="d9">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d10">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d11">1753718183</data>
+    </edge>
+    <edge source="Large Language Models (LLMs)" target="GPT">
+      <data key="d6">0.9</data>
+      <data key="d7">GPT is an example of a Large Language Model (LLM).</data>
+      <data key="d8">instance_of, example</data>
+      <data key="d9">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d10">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d11">1753718183</data>
+    </edge>
+    <edge source="Large Language Models (LLMs)" target="Llama">
+      <data key="d6">0.9</data>
+      <data key="d7">Llama is an example of a Large Language Model (LLM).</data>
+      <data key="d8">instance_of, example</data>
+      <data key="d9">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d10">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d11">1753718183</data>
+    </edge>
+    <edge source="Large Language Models (LLMs)" target="Gemini">
+      <data key="d6">0.9</data>
+      <data key="d7">Gemini is an example of a Large Language Model (LLM).</data>
+      <data key="d8">instance_of, example</data>
+      <data key="d9">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d10">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d11">1753718183</data>
+    </edge>
+    <edge source="Large Language Models (LLMs)" target="GraphRAG">
+      <data key="d6">0.8</data>
+      <data key="d7">GraphRAG utilizes Large Language Models (LLMs) to extract entities and relationships.</data>
+      <data key="d8">utilizes, uses</data>
+      <data key="d9">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d10">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d11">1753718213</data>
+    </edge>
+    <edge source="Large Language Models (LLMs)" target="Entity Knowledge Graph">
+      <data key="d6">0.8</data>
+      <data key="d7">Large Language Models (LLMs) are used for knowledge graph extraction.</data>
+      <data key="d8">used_for, capability</data>
+      <data key="d9">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d10">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d11">1753718183</data>
+    </edge>
+    <edge source="Large Language Models (LLMs)" target="Adaptive Benchmarking">
+      <data key="d6">0.8</data>
+      <data key="d7">Large Language Models (LLMs) are used for adaptive benchmarking to generate evaluation benchmarks.</data>
+      <data key="d8">used_for, capability</data>
+      <data key="d9">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d10">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d11">1753718183</data>
+    </edge>
+    <edge source="Large Language Models (LLMs)" target="LLM-as-a-judge">
+      <data key="d6">0.9</data>
+      <data key="d7">LLM-as-a-judge is an evaluation technique where an LLM judges the output of RAG systems.</data>
+      <data key="d8">evaluation_method, based_on</data>
+      <data key="d9">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d10">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d11">1753718183</data>
+    </edge>
+    <edge source="Large Language Models (LLMs)" target="Factual Claims">
+      <data key="d6">0.8</data>
+      <data key="d7">Large Language Models (LLMs) are prompted to extract factual claims about detected entities.</data>
+      <data key="d8">extracts, generates</data>
+      <data key="d9">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d10">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d11">1753718183</data>
+    </edge>
+    <edge source="Large Language Models (LLMs)" target="Claimify">
+      <data key="d6">0.8</data>
+      <data key="d7">Claimify is described as an LLM-based method.</data>
+      <data key="d8">uses, implemented_with</data>
+      <data key="d9">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d10">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d11">1753718183</data>
+    </edge>
+    <edge source="Large Language Models (LLMs)" target="Self-reflection (Prompt Engineering)">
+      <data key="d6">0.8</data>
+      <data key="d7">Self-reflection is a prompt engineering technique used with LLMs.</data>
+      <data key="d8">prompt_engineering, technique_for</data>
+      <data key="d9">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d10">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d11">1753718183</data>
+    </edge>
+    <edge source="Large Language Models (LLMs)" target="Retrieval-Augmented Generation (RAG) systems">
+      <data key="d6">0.9</data>
+      <data key="d7">Retrieval-Augmented Generation (RAG) systems enhance Large Language Models (LLMs) by integrating external knowledge sources.</data>
+      <data key="d8">enhances, augments, integrates</data>
+      <data key="d9">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d10">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d11">1753718213</data>
+    </edge>
+    <edge source="Large Language Models (LLMs)" target="Knowledge Graph">
+      <data key="d6">0.8</data>
+      <data key="d7">Large Language Models (LLMs) are leveraged to create a knowledge graph by extracting entities and relationships.</data>
+      <data key="d8">creates, extracts</data>
+      <data key="d9">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d10">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d11">1753718213</data>
+    </edge>
+    <edge source="Large Language Models (LLMs)" target="Graph-Enhanced Entity and Relationship Extraction">
+      <data key="d6">0.8</data>
+      <data key="d7">Large Language Models (LLMs) are used for text analysis and processing within Graph-Enhanced Entity and Relationship Extraction.</data>
+      <data key="d8">utilized by, powers</data>
+      <data key="d9">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d10">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d11">1753718213</data>
+    </edge>
+    <edge source="Large Language Models (LLMs)" target="LLM Profiling for Key-Value Pair Generation P(·)">
+      <data key="d6">0.9</data>
+      <data key="d7">LLM Profiling for Key-Value Pair Generation P(·) is an LLM-empowered profiling function.</data>
+      <data key="d8">empowered by, uses</data>
+      <data key="d9">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d10">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d11">1753718213</data>
+    </edge>
+    <edge source="Large Language Models (LLMs)" target="LightRAG">
+      <data key="d6">0.9</data>
+      <data key="d7">LightRAG employs a general-purpose Large Language Model (LLM) to generate answers.</data>
+      <data key="d8">employs, utilizes, generation</data>
+      <data key="d9">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d10">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d11">1753718213</data>
+    </edge>
+    <edge source="Large Language Models (LLMs)" target="Chunking">
+      <data key="d6">0.7</data>
+      <data key="d7">Large Language Models (LLMs) are used to extract entities and relationships from text chunks.</data>
+      <data key="d8">processes, extracts from</data>
+      <data key="d9">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d10">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d11">1753718213</data>
+    </edge>
+    <edge source="Large Language Models (LLMs)" target="GNNs as Prefix">
+      <data key="d6">0.8</data>
+      <data key="d7">GNNs as Prefix involves GNNs generating structure-aware tokens that LLMs can use.</data>
+      <data key="d8">integrates with, provides input for</data>
+      <data key="d9">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d10">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d11">1753718213</data>
+    </edge>
+    <edge source="Large Language Models (LLMs)" target="LLMs as Prefix">
+      <data key="d6">0.9</data>
+      <data key="d7">LLMs as Prefix involves LLMs processing graph data.</data>
+      <data key="d8">category, utilizes</data>
+      <data key="d9">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d10">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d11">1753718213</data>
+    </edge>
+    <edge source="Large Language Models (LLMs)" target="LLMs-Graphs Integration">
+      <data key="d6">0.9</data>
+      <data key="d7">LLMs-Graphs Integration focuses on achieving a seamless interaction between LLMs and graph data.</data>
+      <data key="d8">focuses on, involves</data>
+      <data key="d9">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d10">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d11">1753718213</data>
+    </edge>
+    <edge source="Large Language Models (LLMs)" target="Query Keyword Extraction">
+      <data key="d6">0.8</data>
+      <data key="d7">Large Language Models (LLMs) extract both low-level and high-level keywords from queries.</data>
+      <data key="d8">extracts, performs</data>
+      <data key="d9">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d10">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d11">1753718213</data>
+    </edge>
+    <edge source="Retrieval-Augmented Generation (RAG)" target="Context Window">
+      <data key="d6">0.7</data>
+      <data key="d7">Retrieval-Augmented Generation (RAG) addresses the limitations of Large Language Models' (LLMs) context window size.</data>
+      <data key="d8">addresses_limitation, design_consideration</data>
+      <data key="d9">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d10">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d11">1753718183</data>
+    </edge>
+    <edge source="Retrieval-Augmented Generation (RAG)" target="GraphRAG">
+      <data key="d6">0.9</data>
+      <data key="d7">GraphRAG is a graph-based approach to Retrieval-Augmented Generation (RAG).</data>
+      <data key="d8">type_of, extension</data>
+      <data key="d9">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d10">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d11">1753718183</data>
+    </edge>
+    <edge source="Retrieval-Augmented Generation (RAG)" target="Vector RAG">
+      <data key="d6">0.9</data>
+      <data key="d7">Vector RAG is a conventional approach to Retrieval-Augmented Generation (RAG).</data>
+      <data key="d8">type_of, conventional_approach</data>
+      <data key="d9">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d10">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d11">1753718183</data>
+    </edge>
+    <edge source="Retrieval-Augmented Generation (RAG)" target="HotPotQA">
+      <data key="d6">0.7</data>
+      <data key="d7">HotPotQA is a benchmark dataset for open-domain question answering, used for evaluating RAG performance.</data>
+      <data key="d8">benchmark_for, evaluation_dataset</data>
+      <data key="d9">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d10">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d11">1753718183</data>
+    </edge>
+    <edge source="Retrieval-Augmented Generation (RAG)" target="MultiHop-RAG">
+      <data key="d6">0.7</data>
+      <data key="d7">MultiHop-RAG is a benchmark dataset for open-domain question answering, used for evaluating RAG performance.</data>
+      <data key="d8">benchmark_for, evaluation_dataset</data>
+      <data key="d9">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d10">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d11">1753718183</data>
+    </edge>
+    <edge source="Retrieval-Augmented Generation (RAG)" target="MT-Bench">
+      <data key="d6">0.7</data>
+      <data key="d7">MT-Bench is a benchmark dataset for open-domain question answering, used for evaluating RAG performance.</data>
+      <data key="d8">benchmark_for, evaluation_dataset</data>
+      <data key="d9">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d10">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d11">1753718183</data>
+    </edge>
+    <edge source="Retrieval-Augmented Generation (RAG)" target="LLM-as-a-judge">
+      <data key="d6">0.8</data>
+      <data key="d7">LLM-as-a-judge technique is suitable for evaluating answers from RAG systems.</data>
+      <data key="d8">evaluates, assesses</data>
+      <data key="d9">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d10">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d11">1753718183</data>
+    </edge>
+    <edge source="GraphRAG" target="Graph-based Approach">
+      <data key="d6">0.8</data>
+      <data key="d7">GraphRAG is described as a graph-based approach to question answering.</data>
+      <data key="d8">type_of, methodology</data>
+      <data key="d9">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d10">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d11">1753718183</data>
+    </edge>
+    <edge source="GraphRAG" target="Query-Focused Summarization (QFS)">
+      <data key="d6">0.9</data>
+      <data key="d7">GraphRAG combines knowledge graph generation and Query-Focused Summarization (QFS).</data>
+      <data key="d8">combines, integrates</data>
+      <data key="d9">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d10">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d11">1753718183</data>
+    </edge>
+    <edge source="GraphRAG" target="Comprehensiveness (Criterion)">
+      <data key="d6">0.8</data>
+      <data key="d7">GraphRAG leads to substantial improvements in Comprehensiveness of generated answers.</data>
+      <data key="d8">performance_metric, improvement</data>
+      <data key="d9">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d10">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d11">1753718183</data>
+    </edge>
+    <edge source="GraphRAG" target="Diversity (Criterion)">
+      <data key="d6">0.8</data>
+      <data key="d7">GraphRAG leads to substantial improvements in Diversity of generated answers.</data>
+      <data key="d8">performance_metric, improvement</data>
+      <data key="d9">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d10">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d11">1753718183</data>
+    </edge>
+    <edge source="GraphRAG" target="Entity Knowledge Graph">
+      <data key="d6">0.9</data>
+      <data key="d7">GraphRAG uses an LLM to build an Entity Knowledge Graph from source documents.</data>
+      <data key="d8">constructs, creates</data>
+      <data key="d9">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d10">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d11">1753718183</data>
+    </edge>
+    <edge source="GraphRAG" target="Community Summaries">
+      <data key="d6">0.9</data>
+      <data key="d7">GraphRAG uses an LLM to pre-generate Community Summaries for groups of related entities.</data>
+      <data key="d8">generates, creates</data>
+      <data key="d9">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d10">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d11">1753718183</data>
+    </edge>
+    <edge source="GraphRAG" target="Map-reduce Processing">
+      <data key="d6">0.8</data>
+      <data key="d7">GraphRAG answers queries through map-reduce processing of community summaries.</data>
+      <data key="d8">uses, methodology</data>
+      <data key="d9">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d10">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d11">1753718183</data>
+    </edge>
+    <edge source="GraphRAG" target="LangChain">
+      <data key="d6">0.8</data>
+      <data key="d7">Versions of GraphRAG are available as extensions to LangChain.</data>
+      <data key="d8">extension, integration</data>
+      <data key="d9">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d10">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d11">1753718183</data>
+    </edge>
+    <edge source="GraphRAG" target="LlamaIndex">
+      <data key="d6">0.8</data>
+      <data key="d7">Versions of GraphRAG are available as extensions to LlamaIndex.</data>
+      <data key="d8">extension, integration</data>
+      <data key="d9">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d10">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d11">1753718183</data>
+    </edge>
+    <edge source="GraphRAG" target="NebulaGraph">
+      <data key="d6">0.8</data>
+      <data key="d7">Versions of GraphRAG are available as extensions to NebulaGraph.</data>
+      <data key="d8">extension, integration</data>
+      <data key="d9">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d10">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d11">1753718183</data>
+    </edge>
+    <edge source="GraphRAG" target="Neo4J">
+      <data key="d6">0.8</data>
+      <data key="d7">Versions of GraphRAG are available as extensions to Neo4J.</data>
+      <data key="d8">extension, integration</data>
+      <data key="d9">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d10">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d11">1753718183</data>
+    </edge>
+    <edge source="GraphRAG" target="Community Detection">
+      <data key="d6">0.8</data>
+      <data key="d7">GraphRAG applies graph-based community detection to create a thematic partitioning of data.</data>
+      <data key="d8">uses, methodology</data>
+      <data key="d9">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d10">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d11">1753718183</data>
+    </edge>
+    <edge source="GraphRAG" target="Leiden Community Detection">
+      <data key="d6">0.8</data>
+      <data key="d7">GraphRAG uses Leiden community detection in a hierarchical manner.</data>
+      <data key="d8">uses, applies</data>
+      <data key="d9">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d10">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d11">1753718183</data>
+    </edge>
+    <edge source="GraphRAG" target="Podcast Transcripts (Behind the Tech with Kevin Scott)">
+      <data key="d6">0.7</data>
+      <data key="d7">The Podcast Transcripts (Behind the Tech with Kevin Scott) dataset was used for evaluating GraphRAG.</data>
+      <data key="d8">evaluation_dataset, used_for_testing</data>
+      <data key="d9">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d10">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d11">1753718183</data>
+    </edge>
+    <edge source="GraphRAG" target="News Articles (Benchmark Dataset)">
+      <data key="d6">0.7</data>
+      <data key="d7">The News Articles (Benchmark Dataset) was used for evaluating GraphRAG.</data>
+      <data key="d8">evaluation_dataset, used_for_testing</data>
+      <data key="d9">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d10">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d11">1753718183</data>
+    </edge>
+    <edge source="GraphRAG" target="Vector RAG">
+      <data key="d6">0.7</data>
+      <data key="d7">GraphRAG was compared to and found to substantially outperform Vector RAG.</data>
+      <data key="d8">comparison, outperforms</data>
+      <data key="d9">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d10">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d11">1753718183</data>
+    </edge>
+    <edge source="GraphRAG" target="GPT-4">
+      <data key="d6">0.8</data>
+      <data key="d7">GraphRAG's graph indexing and global answers were generated using GPT-4.</data>
+      <data key="d8">uses, implemented_with</data>
+      <data key="d9">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d10">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d11">1753718183</data>
+    </edge>
+    <edge source="GraphRAG" target="OpenORD">
+      <data key="d6">0.6</data>
+      <data key="d7">OpenORD is used for node layout in GraphRAG's graph communities visualization.</data>
+      <data key="d8">visualization_tool, used_in_process</data>
+      <data key="d9">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d10">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d11">1753718183</data>
+    </edge>
+    <edge source="GraphRAG" target="Force Atlas 2">
+      <data key="d6">0.6</data>
+      <data key="d7">Force Atlas 2 is used for node layout in GraphRAG's graph communities visualization.</data>
+      <data key="d8">visualization_tool, used_in_process</data>
+      <data key="d9">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d10">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d11">1753718183</data>
+    </edge>
+    <edge source="GraphRAG" target="LightRAG">
+      <data key="d6">0.9</data>
+      <data key="d7">LightRAG is compared against and consistently outperforms GraphRAG.</data>
+      <data key="d8">compared against, outperforms, baseline</data>
+      <data key="d9">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d10">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d11">1753718213</data>
+    </edge>
+    <edge source="GraphRAG" target="Graph Structures">
+      <data key="d6">0.8</data>
+      <data key="d7">GraphRAG represents entities and relationships as nodes and edges, forming graph structures.</data>
+      <data key="d8">represents as, uses</data>
+      <data key="d9">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d10">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d11">1753718213</data>
+    </edge>
+    <edge source="GraphRAG" target="Retrieval-Augmented Generation (RAG) systems">
+      <data key="d6">0.9</data>
+      <data key="d7">GraphRAG is a graph-enhanced RAG system.</data>
+      <data key="d8">type of, enhanced RAG</data>
+      <data key="d9">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d10">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d11">1753718213</data>
+    </edge>
+    <edge source="Vector RAG" target="Sensemaking">
+      <data key="d6">0.7</data>
+      <data key="d7">Vector RAG approaches do not support sensemaking over an entire corpus.</data>
+      <data key="d8">limitation, incapable_of</data>
+      <data key="d9">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d10">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d11">1753718183</data>
+    </edge>
+    <edge source="Vector RAG" target="Text Embeddings">
+      <data key="d6">0.8</data>
+      <data key="d7">A common approach to conventional RAG is to use text embeddings.</data>
+      <data key="d8">uses, component</data>
+      <data key="d9">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d10">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d11">1753718183</data>
+    </edge>
+    <edge source="GPT" target="Sensemaking">
+      <data key="d6">0.8</data>
+      <data key="d7">GPT excels at sensemaking in complex domains.</data>
+      <data key="d8">capability, excels_at</data>
+      <data key="d9">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d10">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d11">1753718183</data>
+    </edge>
+    <edge source="GPT-4" target="Context Window">
+      <data key="d6">0.8</data>
+      <data key="d7">GPT-4 has a large context window size of 128k tokens.</data>
+      <data key="d8">property, characteristic</data>
+      <data key="d9">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d10">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d11">1753718183</data>
+    </edge>
+    <edge source="Llama" target="Sensemaking">
+      <data key="d6">0.8</data>
+      <data key="d7">Llama excels at sensemaking in complex domains.</data>
+      <data key="d8">capability, excels_at</data>
+      <data key="d9">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d10">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d11">1753718183</data>
+    </edge>
+    <edge source="Gemini" target="Sensemaking">
+      <data key="d6">0.8</data>
+      <data key="d7">Gemini excels at sensemaking in complex domains.</data>
+      <data key="d8">capability, excels_at</data>
+      <data key="d9">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d10">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d11">1753718183</data>
+    </edge>
+    <edge source="Claimify" target="Factual Claims">
+      <data key="d6">0.9</data>
+      <data key="d7">Claimify is an LLM-based method used to extract Factual Claims.</data>
+      <data key="d8">extracts, tool</data>
+      <data key="d9">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d10">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d11">1753718183</data>
+    </edge>
+    <edge source="Scikit-learn" target="Agglomerative Clustering">
+      <data key="d6">0.8</data>
+      <data key="d7">Agglomerative Clustering is implemented in Scikit-learn.</data>
+      <data key="d8">implemented_in, library</data>
+      <data key="d9">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d10">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d11">1753718183</data>
+    </edge>
+    <edge source="Query-Focused Summarization (QFS)" target="Sensemaking">
+      <data key="d6">0.7</data>
+      <data key="d7">Query-Focused Summarization (QFS) is inherently a task for global sensemaking.</data>
+      <data key="d8">purpose, task_type</data>
+      <data key="d9">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d10">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d11">1753718183</data>
+    </edge>
+    <edge source="Entity Knowledge Graph" target="Entity Matching">
+      <data key="d6">0.7</data>
+      <data key="d7">Entity matching is a task involved in the knowledge graph extraction process.</data>
+      <data key="d8">method_for, component_of_process</data>
+      <data key="d9">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d10">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d11">1753718183</data>
+    </edge>
+    <edge source="Entity Knowledge Graph" target="Self-reflection (Prompt Engineering)">
+      <data key="d6">0.7</data>
+      <data key="d7">Self-reflection prompt engineering is deployed to improve entity extraction for the Entity Knowledge Graph.</data>
+      <data key="d8">improves_extraction, enhances</data>
+      <data key="d9">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d10">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d11">1753718183</data>
+    </edge>
+    <edge source="Community Summaries" target="Hierarchical Indexing">
+      <data key="d6">0.8</data>
+      <data key="d7">Community summaries are generated following the hierarchical structure of extracted communities, similar to hierarchical indexing.</data>
+      <data key="d8">organized_by, structure</data>
+      <data key="d9">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d10">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d11">1753718183</data>
+    </edge>
+    <edge source="Adaptive Benchmarking" target="Persona Generation">
+      <data key="d6">0.8</data>
+      <data key="d7">Adaptive Benchmarking uses persona generation to create queries representative of real-world RAG system usage.</data>
+      <data key="d8">uses, component</data>
+      <data key="d9">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d10">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d11">1753718183</data>
+    </edge>
+    <edge source="LLM-as-a-judge" target="Comprehensiveness (Criterion)">
+      <data key="d6">0.8</data>
+      <data key="d7">Comprehensiveness is a predefined criterion used by LLM-as-a-judge for evaluation.</data>
+      <data key="d8">evaluation_criteria, metric</data>
+      <data key="d9">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d10">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d11">1753718183</data>
+    </edge>
+    <edge source="LLM-as-a-judge" target="Diversity (Criterion)">
+      <data key="d6">0.8</data>
+      <data key="d7">Diversity is a predefined criterion used by LLM-as-a-judge for evaluation.</data>
+      <data key="d8">evaluation_criteria, metric</data>
+      <data key="d9">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d10">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d11">1753718183</data>
+    </edge>
+    <edge source="LLM-as-a-judge" target="Empowerment (Criterion)">
+      <data key="d6">0.8</data>
+      <data key="d7">Empowerment is a predefined criterion used by LLM-as-a-judge for evaluation.</data>
+      <data key="d8">evaluation_criteria, metric</data>
+      <data key="d9">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d10">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d11">1753718183</data>
+    </edge>
+    <edge source="LLM-as-a-judge" target="Directness (Criterion)">
+      <data key="d6">0.8</data>
+      <data key="d7">Directness is a control criterion used by LLM-as-a-judge for evaluation.</data>
+      <data key="d8">evaluation_criteria, metric</data>
+      <data key="d9">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d10">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d11">1753718183</data>
+    </edge>
+    <edge source="Comprehensiveness (Criterion)" target="Factual Claims">
+      <data key="d6">0.8</data>
+      <data key="d7">Factual Claims are used for claim-based measures of Comprehensiveness.</data>
+      <data key="d8">evaluation_metric, basis_for_measurement</data>
+      <data key="d9">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d10">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d11">1753718183</data>
+    </edge>
+    <edge source="Comprehensiveness (Criterion)" target="Wilcoxon Signed-Rank Tests">
+      <data key="d6">0.7</data>
+      <data key="d7">Wilcoxon Signed-Rank Tests are employed for statistical analysis of Comprehensiveness results.</data>
+      <data key="d8">statistical_analysis_for, evaluation</data>
+      <data key="d9">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d10">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d11">1753718183</data>
+    </edge>
+    <edge source="Diversity (Criterion)" target="Factual Claims">
+      <data key="d6">0.8</data>
+      <data key="d7">Factual Claims are used for claim-based measures of Diversity.</data>
+      <data key="d8">evaluation_metric, basis_for_measurement</data>
+      <data key="d9">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d10">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d11">1753718183</data>
+    </edge>
+    <edge source="Diversity (Criterion)" target="Agglomerative Clustering">
+      <data key="d6">0.8</data>
+      <data key="d7">Diversity is measured by clustering factual claims using Agglomerative Clustering.</data>
+      <data key="d8">measured_using, methodology</data>
+      <data key="d9">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d10">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d11">1753718183</data>
+    </edge>
+    <edge source="Diversity (Criterion)" target="ROUGE-L">
+      <data key="d6">0.7</data>
+      <data key="d7">ROUGE-L is used as a distance metric for clustering in the Diversity measurement.</data>
+      <data key="d8">metric_for, measurement</data>
+      <data key="d9">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d10">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d11">1753718183</data>
+    </edge>
+    <edge source="Diversity (Criterion)" target="Wilcoxon Signed-Rank Tests">
+      <data key="d6">0.7</data>
+      <data key="d7">Wilcoxon Signed-Rank Tests are employed for statistical analysis of Diversity results.</data>
+      <data key="d8">statistical_analysis_for, evaluation</data>
+      <data key="d9">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d10">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d11">1753718183</data>
+    </edge>
+    <edge source="Empowerment (Criterion)" target="Wilcoxon Signed-Rank Tests">
+      <data key="d6">0.7</data>
+      <data key="d7">Wilcoxon Signed-Rank Tests are employed for statistical analysis of Empowerment results.</data>
+      <data key="d8">statistical_analysis_for, evaluation</data>
+      <data key="d9">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d10">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d11">1753718183</data>
+    </edge>
+    <edge source="Directness (Criterion)" target="Wilcoxon Signed-Rank Tests">
+      <data key="d6">0.7</data>
+      <data key="d7">Wilcoxon Signed-Rank Tests are employed for statistical analysis of Directness results.</data>
+      <data key="d8">statistical_analysis_for, evaluation</data>
+      <data key="d9">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d10">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d11">1753718183</data>
+    </edge>
+    <edge source="Community Detection" target="Leiden Community Detection">
+      <data key="d6">0.9</data>
+      <data key="d7">Leiden Community Detection is a specific algorithm used for community detection.</data>
+      <data key="d8">type_of, algorithm</data>
+      <data key="d9">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d10">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d11">1753718183</data>
+    </edge>
+    <edge source="Wilcoxon Signed-Rank Tests" target="Holm-Bonferroni Correction">
+      <data key="d6">0.8</data>
+      <data key="d7">Holm-Bonferroni Correction is applied to Wilcoxon Signed-Rank Tests for multiple pairwise comparisons.</data>
+      <data key="d8">statistical_method, correction_for</data>
+      <data key="d9">chunk-5973cf06c94ca0a544fcef3b543e14b0</data>
+      <data key="d10">pdfs/graphrag/microsoft graphrag.pdf</data>
+      <data key="d11">1753718183</data>
+    </edge>
+    <edge source="LightRAG" target="Graph Structures">
+      <data key="d6">0.9</data>
+      <data key="d7">LightRAG incorporates graph structures into its text indexing and retrieval processes.</data>
+      <data key="d8">incorporates, utilizes, integrates</data>
+      <data key="d9">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d10">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d11">1753718213</data>
+    </edge>
+    <edge source="LightRAG" target="Dual-level Retrieval Paradigm">
+      <data key="d6">0.9</data>
+      <data key="d7">LightRAG employs a dual-level retrieval system that enhances comprehensive information retrieval.</data>
+      <data key="d8">employs, utilizes, system design</data>
+      <data key="d9">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d10">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d11">1753718213</data>
+    </edge>
+    <edge source="LightRAG" target="Incremental Update Algorithm">
+      <data key="d6">0.8</data>
+      <data key="d7">LightRAG's capabilities are enhanced by an incremental update algorithm for timely data integration.</data>
+      <data key="d8">enhances, utilizes, algorithm</data>
+      <data key="d9">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d10">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d11">1753718213</data>
+    </edge>
+    <edge source="LightRAG" target="Knowledge Graph">
+      <data key="d6">0.8</data>
+      <data key="d7">The constructed knowledge graph enhances LightRAG's ability to handle complex queries.</data>
+      <data key="d8">enhances, utilized by</data>
+      <data key="d9">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d10">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d11">1753718213</data>
+    </edge>
+    <edge source="LightRAG" target="Graph-Enhanced Entity and Relationship Extraction">
+      <data key="d6">0.9</data>
+      <data key="d7">Graph-Enhanced Entity and Relationship Extraction is a key component of LightRAG's architecture.</data>
+      <data key="d8">component, method</data>
+      <data key="d9">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d10">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d11">1753718213</data>
+    </edge>
+    <edge source="LightRAG" target="Query Keyword Extraction">
+      <data key="d6">0.9</data>
+      <data key="d7">LightRAG's retrieval algorithm begins by performing Query Keyword Extraction.</data>
+      <data key="d8">process step, utilizes</data>
+      <data key="d9">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d10">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d11">1753718213</data>
+    </edge>
+    <edge source="LightRAG" target="Incorporating High-Order Relatedness">
+      <data key="d6">0.8</data>
+      <data key="d7">LightRAG enhances queries by incorporating high-order relatedness.</data>
+      <data key="d8">enhances, utilizes</data>
+      <data key="d9">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d10">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d11">1753718213</data>
+    </edge>
+    <edge source="LightRAG" target="Data Retriever ψ(·)">
+      <data key="d6">0.8</data>
+      <data key="d7">LightRAG utilizes information retrieved from the Data Retriever ψ(·) for answer generation.</data>
+      <data key="d8">utilizes, uses output from</data>
+      <data key="d9">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d10">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d11">1753718213</data>
+    </edge>
+    <edge source="LightRAG" target="Vector Database">
+      <data key="d6">0.8</data>
+      <data key="d7">LightRAG's retrieval mechanism relies on vector-based search, using a Vector Database.</data>
+      <data key="d8">relies on, uses</data>
+      <data key="d9">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d10">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d11">1753718213</data>
+    </edge>
+    <edge source="LightRAG" target="Entities">
+      <data key="d6">0.8</data>
+      <data key="d7">LightRAG's retrieval mechanism concentrates on retrieving entities.</data>
+      <data key="d8">retrieves, focuses on</data>
+      <data key="d9">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d10">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d11">1753718213</data>
+    </edge>
+    <edge source="LightRAG" target="Relationships">
+      <data key="d6">0.8</data>
+      <data key="d7">LightRAG's retrieval mechanism concentrates on retrieving relationships.</data>
+      <data key="d8">retrieves, focuses on</data>
+      <data key="d9">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d10">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d11">1753718213</data>
+    </edge>
+    <edge source="LightRAG" target="UltraDomain benchmark">
+      <data key="d6">0.8</data>
+      <data key="d7">LightRAG was evaluated using datasets from the UltraDomain benchmark.</data>
+      <data key="d8">evaluated using, benchmarked against</data>
+      <data key="d9">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d10">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d11">1753718213</data>
+    </edge>
+    <edge source="LightRAG" target="Naive RAG">
+      <data key="d6">0.8</data>
+      <data key="d7">LightRAG is compared against and outperforms Naive RAG.</data>
+      <data key="d8">compared against, outperforms, baseline</data>
+      <data key="d9">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d10">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d11">1753718213</data>
+    </edge>
+    <edge source="LightRAG" target="RQ-RAG">
+      <data key="d6">0.8</data>
+      <data key="d7">LightRAG is compared against and outperforms RQ-RAG.</data>
+      <data key="d8">compared against, outperforms, baseline</data>
+      <data key="d9">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d10">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d11">1753718213</data>
+    </edge>
+    <edge source="LightRAG" target="HyDE">
+      <data key="d6">0.8</data>
+      <data key="d7">LightRAG is compared against and outperforms HyDE.</data>
+      <data key="d8">compared against, outperforms, baseline</data>
+      <data key="d9">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d10">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d11">1753718213</data>
+    </edge>
+    <edge source="LightRAG" target="GPT-4o-mini">
+      <data key="d6">0.9</data>
+      <data key="d7">LightRAG uses GPT-4o-mini for all its LLM-based operations.</data>
+      <data key="d8">uses, implements with</data>
+      <data key="d9">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d10">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d11">1753718213</data>
+    </edge>
+    <edge source="Retrieval-Augmented Generation (RAG) systems" target="Flat data representations">
+      <data key="d6">0.7</data>
+      <data key="d7">Existing RAG systems have limitations due to their reliance on flat data representations.</data>
+      <data key="d8">limitation, relies on</data>
+      <data key="d9">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d10">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d11">1753718213</data>
+    </edge>
+    <edge source="Retrieval-Augmented Generation (RAG) systems" target="Chunking">
+      <data key="d6">0.7</data>
+      <data key="d7">Chunking plays a vital role in facilitating the retrieval-augmented generation process.</data>
+      <data key="d8">facilitates, process step</data>
+      <data key="d9">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d10">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d11">1753718213</data>
+    </edge>
+    <edge source="Retrieval-Augmented Generation (RAG) systems" target="Retrieval Component">
+      <data key="d6">0.9</data>
+      <data key="d7">The Retrieval Component is an essential element of RAG systems.</data>
+      <data key="d8">component of, essential element</data>
+      <data key="d9">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d10">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d11">1753718213</data>
+    </edge>
+    <edge source="Retrieval-Augmented Generation (RAG) systems" target="Generation Component">
+      <data key="d6">0.9</data>
+      <data key="d7">The Generation Component is an essential element of RAG systems.</data>
+      <data key="d8">component of, essential element</data>
+      <data key="d9">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d10">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d11">1753718213</data>
+    </edge>
+    <edge source="Zirui Guo" target="Beijing University of Posts and Telecommunications">
+      <data key="d6">0.9</data>
+      <data key="d7">Zirui Guo is affiliated with Beijing University of Posts and Telecommunications.</data>
+      <data key="d8">affiliation, author</data>
+      <data key="d9">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d10">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d11">1753718213</data>
+    </edge>
+    <edge source="Zirui Guo" target="University of Hong Kong">
+      <data key="d6">0.9</data>
+      <data key="d7">Zirui Guo is affiliated with the University of Hong Kong.</data>
+      <data key="d8">affiliation, author</data>
+      <data key="d9">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d10">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d11">1753718213</data>
+    </edge>
+    <edge source="Lianghao Xia" target="University of Hong Kong">
+      <data key="d6">0.9</data>
+      <data key="d7">Lianghao Xia is affiliated with the University of Hong Kong.</data>
+      <data key="d8">affiliation, author</data>
+      <data key="d9">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d10">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d11">1753718213</data>
+    </edge>
+    <edge source="Yanhua Yu" target="Beijing University of Posts and Telecommunications">
+      <data key="d6">0.9</data>
+      <data key="d7">Yanhua Yu is affiliated with Beijing University of Posts and Telecommunications.</data>
+      <data key="d8">affiliation, author</data>
+      <data key="d9">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d10">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d11">1753718213</data>
+    </edge>
+    <edge source="Tu Ao" target="Beijing University of Posts and Telecommunications">
+      <data key="d6">0.9</data>
+      <data key="d7">Tu Ao is affiliated with Beijing University of Posts and Telecommunications.</data>
+      <data key="d8">affiliation, author</data>
+      <data key="d9">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d10">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d11">1753718213</data>
+    </edge>
+    <edge source="Chao Huang" target="University of Hong Kong">
+      <data key="d6">0.9</data>
+      <data key="d7">Chao Huang is affiliated with the University of Hong Kong.</data>
+      <data key="d8">affiliation, author</data>
+      <data key="d9">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d10">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d11">1753718213</data>
+    </edge>
+    <edge source="Graph Structures" target="Vector Database">
+      <data key="d6">0.8</data>
+      <data key="d7">Graph structures are combined with vector representations (likely in a vector database) for efficient retrieval.</data>
+      <data key="d8">combines, integrates</data>
+      <data key="d9">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d10">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d11">1753718213</data>
+    </edge>
+    <edge source="Graph Structures" target="LLMs-Graphs Integration">
+      <data key="d6">0.9</data>
+      <data key="d7">LLMs-Graphs Integration focuses on achieving a seamless interaction between LLMs and graph data.</data>
+      <data key="d8">focuses on, involves</data>
+      <data key="d9">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d10">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d11">1753718213</data>
+    </edge>
+    <edge source="Dual-level Retrieval Paradigm" target="Low-Level Retrieval">
+      <data key="d6">0.9</data>
+      <data key="d7">The Dual-level Retrieval Paradigm includes Low-Level Retrieval as one of its distinct strategies.</data>
+      <data key="d8">includes, component</data>
+      <data key="d9">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d10">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d11">1753718213</data>
+    </edge>
+    <edge source="Dual-level Retrieval Paradigm" target="High-Level Retrieval">
+      <data key="d6">0.9</data>
+      <data key="d7">The Dual-level Retrieval Paradigm includes High-Level Retrieval as one of its distinct strategies.</data>
+      <data key="d8">includes, component</data>
+      <data key="d9">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d10">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d11">1753718213</data>
+    </edge>
+    <edge source="Dual-level Retrieval Paradigm" target="Query Keyword Extraction">
+      <data key="d6">0.8</data>
+      <data key="d7">Keywords from Query Keyword Extraction guide the dual-level retrieval process.</data>
+      <data key="d8">guides, informs</data>
+      <data key="d9">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d10">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d11">1753718213</data>
+    </edge>
+    <edge source="Dual-level Retrieval Paradigm" target="Knowledge Graph">
+      <data key="d6">0.8</data>
+      <data key="d7">The Dual-level Retrieval Paradigm operates on the generated knowledge graph.</data>
+      <data key="d8">operates on, uses</data>
+      <data key="d9">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d10">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d11">1753718213</data>
+    </edge>
+    <edge source="Incremental Update Algorithm" target="Knowledge Graph">
+      <data key="d6">0.8</data>
+      <data key="d7">The incremental update algorithm processes new data to update the knowledge graph without full reconstruction.</data>
+      <data key="d8">updates, processes</data>
+      <data key="d9">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d10">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d11">1753718213</data>
+    </edge>
+    <edge source="Chunking" target="Retrieval Component">
+      <data key="d6">0.7</data>
+      <data key="d7">The retrieval process (via Retrieval Component) provides text chunks as retrieved information.</data>
+      <data key="d8">provides, output</data>
+      <data key="d9">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d10">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d11">1753718213</data>
+    </edge>
+    <edge source="Knowledge Graph" target="Deduplication to Optimize Graph Operations D(·)">
+      <data key="d6">0.8</data>
+      <data key="d7">Deduplication to Optimize Graph Operations D(·) reduces overhead associated with graph operations on the knowledge graph.</data>
+      <data key="d8">optimizes, reduces overhead</data>
+      <data key="d9">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d10">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d11">1753718213</data>
+    </edge>
+    <edge source="Retrieval Component" target="Data Indexer φ(·)">
+      <data key="d6">0.9</data>
+      <data key="d7">The Retrieval Component includes the Data Indexer φ(·) functionality.</data>
+      <data key="d8">includes, functionality</data>
+      <data key="d9">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d10">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d11">1753718213</data>
+    </edge>
+    <edge source="Retrieval Component" target="Data Retriever ψ(·)">
+      <data key="d6">0.9</data>
+      <data key="d7">The Retrieval Component includes the Data Retriever ψ(·) functionality.</data>
+      <data key="d8">includes, functionality</data>
+      <data key="d9">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d10">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d11">1753718213</data>
+    </edge>
+    <edge source="Generation Component" target="Data Retriever ψ(·)">
+      <data key="d6">0.8</data>
+      <data key="d7">The Generation Component leverages information retrieved by the Data Retriever ψ(·).</data>
+      <data key="d8">leverages, utilizes</data>
+      <data key="d9">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d10">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d11">1753718213</data>
+    </edge>
+    <edge source="GPT-4o-mini" target="LLM-based multi-dimensional comparison method">
+      <data key="d6">0.9</data>
+      <data key="d7">The LLM-based multi-dimensional comparison method employs GPT-4o-mini for ranking.</data>
+      <data key="d8">employs, uses</data>
+      <data key="d9">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d10">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d11">1753718213</data>
+    </edge>
+    <edge source="Graph-Enhanced Entity and Relationship Extraction" target="LLM Profiling for Key-Value Pair Generation P(·)">
+      <data key="d6">0.9</data>
+      <data key="d7">LLM Profiling for Key-Value Pair Generation P(·) is a processing step within Graph-Enhanced Entity and Relationship Extraction.</data>
+      <data key="d8">process step, part of</data>
+      <data key="d9">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d10">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d11">1753718213</data>
+    </edge>
+    <edge source="Graph-Enhanced Entity and Relationship Extraction" target="Deduplication to Optimize Graph Operations D(·)">
+      <data key="d6">0.9</data>
+      <data key="d7">Deduplication to Optimize Graph Operations D(·) is a processing step within Graph-Enhanced Entity and Relationship Extraction.</data>
+      <data key="d8">process step, part of</data>
+      <data key="d9">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d10">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d11">1753718213</data>
+    </edge>
+    <edge source="LLM Profiling for Key-Value Pair Generation P(·)" target="Entities">
+      <data key="d6">0.8</data>
+      <data key="d7">LLM Profiling for Key-Value Pair Generation P(·) produces values from relevant entities.</data>
+      <data key="d8">produces, generates for</data>
+      <data key="d9">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d10">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d11">1753718213</data>
+    </edge>
+    <edge source="LLM Profiling for Key-Value Pair Generation P(·)" target="Relationships">
+      <data key="d6">0.8</data>
+      <data key="d7">LLM Profiling for Key-Value Pair Generation P(·) produces values from relevant relations.</data>
+      <data key="d8">produces, generates for</data>
+      <data key="d9">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d10">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d11">1753718213</data>
+    </edge>
+    <edge source="Vector Database" target="Keyword Matching">
+      <data key="d6">0.9</data>
+      <data key="d7">Keyword Matching uses an efficient vector database.</data>
+      <data key="d8">uses, relies on</data>
+      <data key="d9">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d10">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d11">1753718213</data>
+    </edge>
+    <edge source="Vector Database" target="Naive RAG">
+      <data key="d6">0.8</data>
+      <data key="d7">Naive RAG segments raw texts into chunks and stores them in a vector database.</data>
+      <data key="d8">stores in, uses</data>
+      <data key="d9">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d10">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d11">1753718213</data>
+    </edge>
+    <edge source="UltraDomain benchmark" target="Agriculture dataset">
+      <data key="d6">0.9</data>
+      <data key="d7">The Agriculture dataset is one of four selected from the UltraDomain benchmark for evaluation.</data>
+      <data key="d8">subset, part of</data>
+      <data key="d9">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d10">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d11">1753718213</data>
+    </edge>
+    <edge source="UltraDomain benchmark" target="CS dataset">
+      <data key="d6">0.9</data>
+      <data key="d7">The CS dataset is one of four selected from the UltraDomain benchmark for evaluation.</data>
+      <data key="d8">subset, part of</data>
+      <data key="d9">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d10">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d11">1753718213</data>
+    </edge>
+    <edge source="UltraDomain benchmark" target="Legal dataset">
+      <data key="d6">0.9</data>
+      <data key="d7">The Legal dataset is one of four selected from the UltraDomain benchmark for evaluation.</data>
+      <data key="d8">subset, part of</data>
+      <data key="d9">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d10">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d11">1753718213</data>
+    </edge>
+    <edge source="UltraDomain benchmark" target="Mix dataset">
+      <data key="d6">0.9</data>
+      <data key="d7">The Mix dataset is one of four selected from the UltraDomain benchmark for evaluation.</data>
+      <data key="d8">subset, part of</data>
+      <data key="d9">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d10">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d11">1753718213</data>
+    </edge>
+    <edge source="LLM-based multi-dimensional comparison method" target="Comprehensiveness">
+      <data key="d6">0.8</data>
+      <data key="d7">Comprehensiveness is an evaluation dimension used in the LLM-based multi-dimensional comparison method.</data>
+      <data key="d8">evaluation dimension, criterion</data>
+      <data key="d9">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d10">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d11">1753718213</data>
+    </edge>
+    <edge source="LLM-based multi-dimensional comparison method" target="Diversity">
+      <data key="d6">0.8</data>
+      <data key="d7">Diversity is an evaluation dimension used in the LLM-based multi-dimensional comparison method.</data>
+      <data key="d8">evaluation dimension, criterion</data>
+      <data key="d9">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d10">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d11">1753718213</data>
+    </edge>
+    <edge source="LLM-based multi-dimensional comparison method" target="Empowerment">
+      <data key="d6">0.8</data>
+      <data key="d7">Empowerment is an evaluation dimension used in the LLM-based multi-dimensional comparison method.</data>
+      <data key="d8">evaluation dimension, criterion</data>
+      <data key="d9">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d10">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d11">1753718213</data>
+    </edge>
+    <edge source="Keyword Matching" target="Entities">
+      <data key="d6">0.8</data>
+      <data key="d7">Keyword Matching matches local query keywords with candidate entities.</data>
+      <data key="d8">matches, uses for</data>
+      <data key="d9">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d10">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d11">1753718213</data>
+    </edge>
+    <edge source="Keyword Matching" target="Relationships">
+      <data key="d6">0.8</data>
+      <data key="d7">Keyword Matching matches global query keywords with relations.</data>
+      <data key="d8">matches, uses for</data>
+      <data key="d9">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d10">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d11">1753718213</data>
+    </edge>
+    <edge source="Graph Neural Networks (GNNs)" target="GNNs as Prefix">
+      <data key="d6">0.9</data>
+      <data key="d7">GNNs as Prefix is a category where Graph Neural Networks (GNNs) are utilized as the initial processing layer.</data>
+      <data key="d8">category, utilizes</data>
+      <data key="d9">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d10">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d11">1753718213</data>
+    </edge>
+    <edge source="Graph Neural Networks (GNNs)" target="LLMs as Prefix">
+      <data key="d6">0.8</data>
+      <data key="d7">LLMs as Prefix involves LLMs refining the training process for GNNs.</data>
+      <data key="d8">refines training for, influences</data>
+      <data key="d9">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d10">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d11">1753718213</data>
+    </edge>
+    <edge source="GNNs as Prefix" target="GraphGPT">
+      <data key="d6">0.9</data>
+      <data key="d7">GraphGPT is a notable example of the GNNs as Prefix approach.</data>
+      <data key="d8">example of, uses</data>
+      <data key="d9">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d10">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d11">1753718213</data>
+    </edge>
+    <edge source="GNNs as Prefix" target="LLaGA">
+      <data key="d6">0.9</data>
+      <data key="d7">LLaGA is a notable example of the GNNs as Prefix approach.</data>
+      <data key="d8">example of, uses</data>
+      <data key="d9">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d10">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d11">1753718213</data>
+    </edge>
+    <edge source="LLMs as Prefix" target="GALM">
+      <data key="d6">0.9</data>
+      <data key="d7">GALM is an example of the LLMs as Prefix approach.</data>
+      <data key="d8">example of, uses</data>
+      <data key="d9">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d10">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d11">1753718213</data>
+    </edge>
+    <edge source="LLMs as Prefix" target="OFA">
+      <data key="d6">0.9</data>
+      <data key="d7">OFA is an example of the LLMs as Prefix approach.</data>
+      <data key="d8">example of, uses</data>
+      <data key="d9">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d10">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d11">1753718213</data>
+    </edge>
+    <edge source="Low-Level Retrieval" target="Entities">
+      <data key="d6">0.8</data>
+      <data key="d7">Low-Level Retrieval focuses on retrieving specific entities and their associated attributes.</data>
+      <data key="d8">retrieves, focuses on</data>
+      <data key="d9">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d10">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d11">1753718213</data>
+    </edge>
+    <edge source="High-Level Retrieval" target="Entities">
+      <data key="d6">0.7</data>
+      <data key="d7">High-Level Retrieval aggregates information across multiple related entities.</data>
+      <data key="d8">aggregates, retrieves</data>
+      <data key="d9">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d10">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d11">1753718213</data>
+    </edge>
+    <edge source="High-Level Retrieval" target="Relationships">
+      <data key="d6">0.7</data>
+      <data key="d7">High-Level Retrieval aggregates information across multiple related relationships.</data>
+      <data key="d8">aggregates, retrieves</data>
+      <data key="d9">chunk-65cf69523fd4a62056b15c4a1226d1c6</data>
+      <data key="d10">pdfs/graphrag/lightrag.pdf</data>
+      <data key="d11">1753718213</data>
+    </edge>
+  </graph>
+</graphml>
