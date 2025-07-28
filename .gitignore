@@ -1,0 +1,17 @@
+rag_storage/
+*.log
+
+##################
+
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+*lib/
+
+# Virtual environments
+.venv*
+*.env
