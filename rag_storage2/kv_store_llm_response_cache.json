@@ -63,5 +63,44 @@
     "create_time": 1753718281,
     "update_time": 1753718281,
     "_id": "mix:query:6950c375012afa29d7f7ca7be8c2dd36"
+  },
+  "mix:keywords:f8555bb7c5a315afa74b7009d80d254d": {
+    "return": "{\"high_level_keywords\": [\"Types of RAG\", \"Information retrieval\", \"Data processing\"], \"low_level_keywords\": [\"RAG models\", \"Retrieval-Augmented Generation\", \"Natural language processing\", \"Machine learning\", \"AI applications\"]}",
+    "cache_type": "keywords",
+    "chunk_id": null,
+    "embedding": null,
+    "embedding_shape": null,
+    "embedding_min": null,
+    "embedding_max": null,
+    "original_prompt": "What are different types of RAG?",
+    "create_time": 1753720608,
+    "update_time": 1753720608,
+    "_id": "mix:keywords:f8555bb7c5a315afa74b7009d80d254d"
+  },
+  "mix:query:f8555bb7c5a315afa74b7009d80d254d": {
+    "return": "Retrieval-Augmented Generation (RAG) consists of various methods and approaches, each tailored to enhance the integration of external knowledge into Large Language Models (LLMs). Below are some notable types of RAG frameworks:\n\n### 1. Traditional RAG\nTraditional RAG systems primarily retrieve information from textual databases using lexical and semantic search techniques. They usually process data by splitting it into smaller chunks to fit within the LLM's context window, enabling answers based on localized information.\n\n### 2. Graph-based RAG\nGraph-based RAG approaches utilize graph structures to enrich the information retrieval process. They build knowledge graphs to represent relationships between entities, which enhances reasoning capabilities and retrieval efficiency. This type includes:\n- **Knowledge Graph-based GraphRAG**: Extracts knowledge graphs from text for retrieval.\n- **Community-based GraphRAG**: Retrieves information from both the knowledge graph and hierarchical communities within the graph.\n\n### 3. Vector RAG\nThis method relies on dense or sparse vector embeddings to find semantically similar records based on a query. Dense vector retrieval is effective for localized information, while sparse vector retrieval commonly uses keyword matching for broader searches.\n\n### 4. PathRAG\nPathRAG is a novel method that leverages graph structures to retrieve key relational paths for prompting LLMs, aiming to generate more coherent and contextually relevant responses, contrasting with traditional flat-structured retrieval.\n\n### 5. Self-querying RAG\nThis advanced RAG system automatically decomposes complex queries into simpler sub-queries, making it particularly helpful for queries that require deeper analysis or multi-step reasoning processes.\n\n### 6. Adaptive RAG\nAdaptive RAG systems dynamically adjust their retrieval strategies based on the types of queries, enhancing the efficiency and effectiveness of information retrieval.\n\n### 7. Hybrid Retrieval Strategies\nIntegrating different forms of data retrieval, such as graph and vector databases, to collaboratively finish the RAG process is another emerging approach, enhancing performance in various tasks.\n\nThese various RAG approaches aim to utilize external knowledge effectively, addressing the limitations of conventional LLMs and improving the accuracy and relevance of generated responses.\n\n### References\n- [KG] pdfs/graphrag/zep graphiti.pdf\n- [KG] pdfs/graphrag/graphrag survey paper 2.pdf\n- [KG] pdfs/graphrag/pathrag.pdf\n- [KG] pdfs/graphrag/lightrag.pdf\n- [DC] pdfs/graphrag/noderag.pdf",
+    "cache_type": "query",
+    "chunk_id": null,
+    "embedding": null,
+    "embedding_shape": null,
+    "embedding_min": null,
+    "embedding_max": null,
+    "original_prompt": "What are different types of RAG?",
+    "create_time": 1753720621,
+    "update_time": 1753720621,
+    "_id": "mix:query:f8555bb7c5a315afa74b7009d80d254d"
+  },
+  "naive:query:c9178116dd4a8de48eccce27bd89ef9b": {
+    "return": "### Types of Retrieval-Augmented Generation (RAG)\n\nRetrieval-Augmented Generation (RAG) can be categorized into several types based on the methodology and structure employed for enhancing the retrieval process and knowledge organization. Here are the primary types:\n\n#### 1. Traditional RAG\nTraditional RAG methods typically involve splitting input documents into chunks and retrieving relevant text-based pieces using similarity measures. This method relies on vector databases to manage the knowledge organization and focuses on retrieving the most similar chunks based on a user's query. However, it often faces challenges in handling complex queries and understanding the intricate connections between different chunks of information.\n\n#### 2. Knowledge-based GraphRAG\nIn knowledge-based GraphRAG, graphs serve as a carrier of knowledge where nodes represent domain concepts and edges capture semantic relationships. This approach helps in effectively modeling hierarchical relationships and complex dependencies among pieces of knowledge, enabling better understanding and retrieval of information.\n\n#### 3. Index-based GraphRAG\nThis approach uses graphs primarily as indexing tools rather than knowledge carriers. It maintains the original textual form while utilizing graph structures to organize and retrieve relevant text chunks efficiently. Index-based GraphRAG prioritizes the retrieval and accessibility of knowledge through enhanced indexing mechanisms.\n\n#### 4. Hybrid GraphRAG\nHybrid GraphRAG combines elements of both knowledge-based and index-based methods, seeking to leverage the advantages of both approaches. It aims to create a structured knowledge representation while optimizing the retrieval process, allowing for more advanced solutions for addressing complex reasoning tasks.\n\n#### 5. Community-based GraphRAG\nCommunity-based GraphRAG employs the construction of hierarchical communities from document graphs. This method not only retrieves information from these communities but also leverages summaries created for each community, facilitating a more comprehensive and contextual understanding of the information in response to queries.\n\n### Conclusion\nThese various types of RAG systems aim to enhance the effectiveness and efficiency of large language models (LLMs) by addressing the limitations of traditional RAG approaches. Each type offers unique advantages, particularly in organizing and retrieving complex, interconnected data.\n\n### References\n1. In-depth Analysis of Graph-based RAG in a Unified Framework, [DC] pdfs/graphrag/graphrag in unified framework.pdf\n2. From Local to Global: A GraphRAG Approach to Query-Focused Summarization, [DC] pdfs/graphrag/microsoft graphrag.pdf\n3. RAG frameworks is crucial for synthesizing coherent and accurate responses, [DC] pdfs/graphrag/graphrag survey paper 2.pdf\n4. NodeRAG: Structuring Graph-based RAG with Heterogeneous Nodes, [DC] pdfs/graphrag/noderag.pdf\n5. GraphRAG and its advantages, [DC] pdfs/graphrag/noderag.pdf",
+    "cache_type": "query",
+    "chunk_id": null,
+    "embedding": null,
+    "embedding_shape": null,
+    "embedding_min": null,
+    "embedding_max": null,
+    "original_prompt": "What are different types of RAG?",
+    "create_time": 1753720634,
+    "update_time": 1753720634,
+    "_id": "naive:query:c9178116dd4a8de48eccce27bd89ef9b"
   }
 }
